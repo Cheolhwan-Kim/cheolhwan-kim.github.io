@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://cheolhwan-kim.github.io/sitemap/sitemap-index.xml
+Host: https://cheolhwan-kim.github.io
