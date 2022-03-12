@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-index-js",
     "path": "/",
-    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"id":"fc66d0be-78bb-5bbb-a379-08f4c57028a8","excerpt":"연습페이지 1.연습 2.커밋","frontmatter":{"categories":"공부","title":"연습","date":"March 12, 2022"},"fields":{"slug":"/study-20220312-01/"}}}]},"site":{"siteMetadata":{"language":"ko","title":"Iron Blog","author":{"name":"김철환","bio":{"role":"개발자","description":["능동적으로 일하는","이로운 것을 만드는"],"thumbnail":"about.png"},"social":{"github":"https://github.com/Cheolhwan-Kim","linkedIn":"https://www.linkedin.com/in/cheolhwan","email":"nexsaver@gmail.com"}}}}},"pageContext":{}},
+    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"id":"fc66d0be-78bb-5bbb-a379-08f4c57028a8","excerpt":"연습페이지 1.연습 2.커밋","frontmatter":{"categories":"공부","title":"연습","date":"March 12, 2022"},"fields":{"slug":"/study-20220312-01/"}}}]},"site":{"siteMetadata":{"language":"ko","title":"Iron Blog","author":{"name":"김철환","bio":{"role":"개발자","description":["능동적으로 일하는","고객을 우선하는"],"thumbnail":"about.png"},"social":{"github":"https://github.com/Cheolhwan-Kim","linkedIn":"https://www.linkedin.com/in/cheolhwan","email":"nexsaver@gmail.com"}}}}},"pageContext":{}},
     "staticQueryHashes": ["1548634563","1956554647","2938748437","3350743975"]}
