@@ -35,6 +35,8 @@
       .tech-stack {
         display: flex;
         margin-bottom: 10px;
+        flex-wrap: wrap;
+        row-gap: 10px;
 
         .tech {
           background-color: var(--chip-background-color);

@@ -6,16 +6,16 @@ module.exports = {
   ogImage: `/og-image.png`, // 공유할 때 보이는 미리보기 이미지로 '/static' 하위에 넣고 싶은 이미지를 추가하시면 됩니다.
   comments: {
     utterances: {
-      repo: ``, // `zoomkoding/zoomkoding-gatsby-blog`,
+      repo: `Cheolhwan-Kim/cheolhwan-kim.github.io`,
     },
   },
-  ga: 'UA-222772530-1', // Google Analytics Tracking ID
+  ga: 'UA-222772530-1',
   author: {
     name: `김철환`,
     footer: `Iron`,
     bio: {
       role: `개발자`,
-      description: ['능동적으로 일하는', '이로운 것을 만드는'],
+      description: ['능동적으로 일하는', '고객을 우선하는'],
       thumbnail: 'about.png',
     },
     social: {
@@ -24,12 +24,8 @@ module.exports = {
       email: `nexsaver@gmail.com`,
     },
   },
-
-  // metadata for About Page
   about: {
     timestamps: [
-      // =====       [Timestamp Sample and Structure]      =====
-      // ===== 🚫 Don't erase this sample (여기 지우지 마세요!) =====
       {
         date: '',
         activity: '',
@@ -41,17 +37,20 @@ module.exports = {
           demo: '',
         },
       },
-      // ========================================================
-      // ========================================================
       {
-        date: '2012.01 ~',
-        activity: 'LG CNS'
+        date: '2020.04 ~ ',
+        activity: 'LG CNS 책임, Professional',
+      },
+      {
+        date: '2015.01 ~ 2020.03',
+        activity: 'LG CNS 선임, Specialist',
+      },
+      {
+        date: '2012.01 ~ 2014.12',
+        activity: 'LG CNS 사원, Associate',
       },
     ],
-
     projects: [
-      // =====        [Project Sample and Structure]        =====
-      // ===== 🚫 Don't erase this sample (여기 지우지 마세요!)  =====
       {
         title: '',
         description: '',
@@ -65,25 +64,20 @@ module.exports = {
           demo: '',
         },
       },
-      // ========================================================
-      // ========================================================
       {
-        title: '우정사업본부 우편물류시스템 (2012.01 ~ 2018.12)',
-        description:
-          '',
-        techStack: ['Java', 'C#', 'Delphi', 'MFC', 'Oracle', 'MariaDB'],
+        title: 'GS25 편의점 택배 구축 및 클라우드 전환 (2021.05 ~ )',
+        description: '',
+        techStack: ['Java', 'C#', 'Python', 'Oracle', 'PostgreSQL', 'JPA', 'Kubernetes', 'CI/CD'],
       },
       {
         title: 'PosMalaysia NewCore Track&Trace System (2019.01 ~ 2021.04)',
-        description:
-            '',
+        description: '',
         techStack: ['Java', 'C#', 'Oracle', 'MS SQL', 'Elastic Search'],
       },
       {
-        title: 'GS25 편의점 택배 구축 및 클라우드 전환 (2021.05 ~ )',
-        description:
-            '',
-        techStack: ['Java', 'C#', 'Python', 'Oracle', 'PostgreSQL', 'JPA', 'Kubernetes', 'CI/CD'],
+        title: '우정사업본부 우편물류시스템 (2012.01 ~ 2018.12)',
+        description: '',
+        techStack: ['Java', 'C#', 'Delphi', 'MFC', 'Oracle', 'MariaDB'],
       },
     ],
   },
