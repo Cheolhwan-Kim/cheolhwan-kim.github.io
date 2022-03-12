@@ -9,7 +9,7 @@ module.exports = {
       repo: ``, // `zoomkoding/zoomkoding-gatsby-blog`,
     },
   },
-  ga: 'G-GGZRYKVH8E', // Google Analytics Tracking ID
+  ga: 'UA-222772530-1', // Google Analytics Tracking ID
   author: {
     name: `김철환`,
     footer: `Iron`,
