@@ -2,7 +2,7 @@ module.exports = {
   title: `Iron Blog`,
   description: `끄적끄적`,
   language: `ko`,
-  siteUrl: `https://Cheolhwan-Kim.github.io`,
+  siteUrl: `https://cheolhwan-kim.github.io`,
   ogImage: `/og-image.png`, // 공유할 때 보이는 미리보기 이미지로 '/static' 하위에 넣고 싶은 이미지를 추가하시면 됩니다.
   comments: {
     utterances: {
